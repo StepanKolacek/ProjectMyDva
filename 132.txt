@@ -1,0 +1,31 @@
+ Output from POLY-3, equilibrium =     1, label A0  , database: TCHEA2  
+
+ Conditions:
+  N=1, P=1.01325E5, X(CR)=0.245, X(C)=0.245, X(SI)=0.245, T=450
+  DEGREES OF FREEDOM 0
+
+ Temperature    450.00 K (   176.85 C),  Pressure  1.013250E+05
+ Number of moles of components  1.00000E+00,  Mass in grams  3.73622E+01
+ Total Gibbs energy -3.90412E+04,  Enthalpy -3.19106E+04,  Volume  7.98238E-06
+
+ Component               Moles       M-Fraction  Activity   Potential  Ref.stat
+ C                       2.4500E-01  2.4500E-01 4.5833E-01 -2.9190E+03 SER     
+ CR                      2.4500E-01  2.4500E-01 6.1720E-05 -3.6266E+04 SER     
+ FE                      2.6500E-01  2.6500E-01 1.0619E-02 -1.7006E+04 SER     
+ SI                      2.4500E-01  2.4500E-01 1.5376E-12 -1.0177E+05 SER     
+
+ M5SI3_D88                   Status ENTERED     Driving force  0.0000E+00
+ Moles 5.9870E-01, Mass 2.6339E+01, Volume fraction 5.7399E-01  Mole fractions:
+ SI  3.75000E-01  CR  3.74731E-01  FE  2.50269E-01  C   1.25000E-13
+
+ BCC_B2#2                 ORD    Status ENTERED   Driving force  0.0000E+00
+ Moles 1.3570E-01, Mass 7.0095E+00, Volume fraction 1.1850E-01  Mole fractions:
+ FE  8.48663E-01  SI  1.50976E-01  CR  3.61271E-04  C   3.00000E-12
+
+ GRAPHITE                    Status ENTERED     Driving force  0.0000E+00
+ Moles 2.3127E-01, Mass 2.7777E+00, Volume fraction 1.5405E-01  Mole fractions:
+ C   1.00000E+00  SI  0.00000E+00  FE  0.00000E+00  CR  0.00000E+00
+
+ M3C2                        Status ENTERED     Driving force  0.0000E+00
+ Moles 3.4333E-02, Mass 1.2360E+00, Volume fraction 1.5346E-01  Mole fractions:
+ CR  6.00000E-01  C   4.00000E-01  FE  0.00000E+00  SI  0.00000E+00
